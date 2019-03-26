@@ -53,3 +53,6 @@ pkg update
 
 pkg upgrade
 
+
+#  Thank's to boyfira from selfbot MAX 
+
